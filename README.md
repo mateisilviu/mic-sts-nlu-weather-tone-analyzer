@@ -2,7 +2,7 @@
 
 # Talk to your car 
 
-![](img/audio-arch.png)
+![](img/flowdiagram.png)
 
 <hr>
 
