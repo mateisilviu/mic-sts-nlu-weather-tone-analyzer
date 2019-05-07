@@ -3,7 +3,7 @@
 
 You have finished all the steps to create a simple application. 
 
-You can now test your application: Click on the right part of the microphone node and then speak one of the following phrases to see if you get a response back:
+You can now test your application: Click on the left side of the `Microphone node` to activate it and then speak one of the following phrases to see if you get a response back:
 
 * turn on the lights 
 * turn off the lights
