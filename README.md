@@ -25,7 +25,7 @@ This app records your speech, sends it to the Watson services to process the req
 * Step 1 - [Create an IBM Cloud app using the Node-RED Starter application.](steps/nodered.md)
 * Step 2 - [Add Speech-To-Text service from IBM Cloud Catalog.](steps/stt.md)
 * Step 3 - [Add Internet of Things service from IBM Cloud Catalog.](steps/iot.md)
-* Step 4 - [Add Weather Insights service from IBM Cloud Catalog.](steps/weather.md)
+* Optional, only when upgraded. Step 4 - [Add Weather Insights service from IBM Cloud Catalog.](steps/weather.md)
 * Step 5 - [Add Tone Analyzer service from IBM Cloud Catalog.](steps/tone.md)
 * Step 6 - [Add Assistant service from IBM Cloud Catalog.](steps/conversation.md)
 * Step 7 - [Add Text-To-Speech service from IBM Cloud Catalog.](steps/tts.md)
