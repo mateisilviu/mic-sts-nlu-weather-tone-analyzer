@@ -32,6 +32,7 @@ This app records your speech, sends it to the Watson services to process the req
 * Step 8 - Connect all the deployed services to the node-red starter application, which is created in step 1.
 * Step 9 - Back to Node-RED Starter application (as in Step 1) to make sure that the microphone and the audio are installed & working.
 * Step 10 - Sign up to OpenCage Geocoder https://opencagedata.com/api for free API key that will be used to get latitude and longitude.
+* Step 11 - import the [flow](https://github.com/hansb001/mic-sts-nlu-weather-tone-analyzer/blob/master/scripts/flow.json)
 
 > Make sure to have your device's microphone and speaker active for this project
 
