@@ -13,7 +13,9 @@ If that works you can have a look at the assistant service to see if there are m
 You need to go to Assistant API on IBM cloud and
 
 Click on `launch tool`
+
 Click on `Skills`
-click on `car dashboard sample`
+
+Click on `Car dashboard sample`
 
 There you will see a lot of entities and intents which you can use to creat a conversation
