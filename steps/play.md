@@ -1,7 +1,7 @@
 
 ## Done!!
 
-You have finished al the steps to create a simple application. 
+You have finished all the steps to create a simple application. 
 
 You can now test your application: Click on the right part of the microphone node and then speak one of the following phrases to see if you get a response back:
 
