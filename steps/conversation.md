@@ -15,3 +15,5 @@ IMPORTANT: Use and Download this [file](https://github.com/hansb001/mic-sts-nlu-
 4. Click on Import skill
 5. Click on choose JSON file
 6. Select the file and click on import
+7. When the import is done, click on the 3 vertical dots and select API details. 
+8. Copy the workspace ID, this is needed to connect your application to the right skill (conversation)
