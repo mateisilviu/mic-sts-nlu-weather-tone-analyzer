@@ -34,6 +34,8 @@ Here a short [presentation](steps/presentation.pdf) of the components which you 
 * Step 6 - [Connect all the deployed services to the node-red starter application, which is created in step 1.](steps/connect.md)
 * Step 7 - [Back to Node-RED Starter application (as in Step 1) and install extra microphone and audio nodes.](steps/microphone.md)
 * Step 8 - [Import the flow and do some configuration.](steps/flow.md)
+* Step 9 - [Done!! Now time to play with the flow ](steps/play.md)
+
 
 > Make sure to have your device's microphone and speaker active for this project
 
