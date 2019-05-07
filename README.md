@@ -1,6 +1,6 @@
 
 
-# Assistant Watson-Alex
+# Talk to your car 
 
 ![](img/audio-arch.png)
 
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-With this project, you can quickly build a Node-RED Starter app and use the Watson cognitive services for audio conversations. You’ll use the Watson Assistant service (formerly known as Watson Conversation service) and its Car Dashboard Conversation workspace (**This workspace is no longer available and will not effect on the use of this project**) as a starting point to building your conversation app. You can create or import your own conversation workspace, but using this provided one will get you started quickly.
+With this project, you can quickly build a Node-RED Starter app and use the Watson cognitive services for audio conversations. You’ll use the Watson Assistant service  and its Car Dashboard Conversation workspace  as a starting point to building your conversation app. You can create or import your own conversation workspace, but using this provided one will get you started quickly.
 
 This app records your speech, sends it to the Watson services to process the request. It can handle requests for the weather, or you can send commands and receive responses through a conversation to turn on the lights or play music. The possibilities are endless. Show us what you'll build.
 
@@ -24,15 +24,12 @@ This app records your speech, sends it to the Watson services to process the req
 
 * Step 1 - [Create an IBM Cloud app using the Node-RED Starter application.](steps/nodered.md)
 * Step 2 - [Add Speech-To-Text service from IBM Cloud Catalog.](steps/stt.md)
-* Step 3 - [Add Internet of Things service from IBM Cloud Catalog.](steps/iot.md)
-* Optional, only when upgraded. Step 4 - [Add Weather Insights service from IBM Cloud Catalog.](steps/weather.md)
-* Step 5 - [Add Tone Analyzer service from IBM Cloud Catalog.](steps/tone.md)
-* Step 6 - [Add Assistant service from IBM Cloud Catalog.](steps/conversation.md)
-* Step 7 - [Add Text-To-Speech service from IBM Cloud Catalog.](steps/tts.md)
-* Step 8 - [Connect all the deployed services to the node-red starter application, which is created in step 1.](steps/connect.md)
-* Step 9 - [Back to Node-RED Starter application (as in Step 1) and install extra microphone and audio nodes.](steps/microphone.md)
-* Step 10 - Sign up to OpenCage Geocoder https://opencagedata.com/api for free API key that will be used to get latitude and longitude.
-* Step 11 - [Import the flow and do some configuration.](steps/flow.md)
+* Step 3 - [Add Tone Analyzer service from IBM Cloud Catalog.](steps/tone.md)
+* Step 4 - [Add Assistant service from IBM Cloud Catalog.](steps/conversation.md)
+* Step 5 - [Add Text-To-Speech service from IBM Cloud Catalog.](steps/tts.md)
+* Step 6 - [Connect all the deployed services to the node-red starter application, which is created in step 1.](steps/connect.md)
+* Step 7 - [Back to Node-RED Starter application (as in Step 1) and install extra microphone and audio nodes.](steps/microphone.md)
+* Step 8 - [Import the flow and do some configuration.](steps/flow.md)
 
 > Make sure to have your device's microphone and speaker active for this project
 
