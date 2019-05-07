@@ -13,9 +13,6 @@ With this project, you can quickly build a Node-RED Starter app and use the Wats
 This app records your speech, sends it to the Watson services to process the request. It can handle requests for the weather, or you can send commands and receive responses through a conversation to turn on the lights or play music. The possibilities are endless. Show us what you'll build.
 
 
-[Here](steps/presentation.pdf) a short explanation of the components which you will make use of.
-
-
 ### Before you begin
 
 * Create an IBM Cloud account if you don't have an existing one: [Sign up](https://console.bluemix.net/registration/).
@@ -24,6 +21,10 @@ This app records your speech, sends it to the Watson services to process the req
 
 
 ## TUTORIAL STEPS
+
+
+Here a short [presentation](steps/presentation.pdf) of the components which you will make use of.
+
 
 * Step 1 - [Create an IBM Cloud app using the Node-RED Starter application.](steps/nodered.md)
 * Step 2 - [Add Speech-To-Text service from IBM Cloud Catalog.](steps/stt.md)
