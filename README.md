@@ -11,6 +11,7 @@
 With this project, you can quickly build a Node-RED Starter app and use the Watson cognitive services for audio conversations. You’ll use the Watson Assistant service  and its Car Dashboard Conversation workspace  as a starting point to building your conversation app. You can create or import your own conversation workspace, but using this provided one will get you started quickly.
 
 This app records your speech, sends it to the Watson services to process the request. It can handle requests for the weather, or you can send commands and receive responses through a conversation to turn on the lights or play music. The possibilities are endless. Show us what you'll build.
+[Here](steps/presentation) a short explanation of the components which you will make use of.
 
 
 ### Before you begin
