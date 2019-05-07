@@ -27,10 +27,10 @@ Here a short [presentation](steps/presentation.pdf) of the components which you 
 
 
 * Step 1 - [Create an IBM Cloud app using the Node-RED Starter application.](steps/nodered.md)
-* Step 2 - [Add Speech-To-Text service from IBM Cloud Catalog.](steps/stt.md)
-* Step 3 - [Add Tone Analyzer service from IBM Cloud Catalog.](steps/tone.md)
-* Step 4 - [Add Assistant service from IBM Cloud Catalog.](steps/conversation.md)
-* Step 5 - [Add Text-To-Speech service from IBM Cloud Catalog.](steps/tts.md)
+* Step 2 - [Deploy Speech-To-Text service from IBM Cloud Catalog.](steps/stt.md)
+* Step 3 - [Deploy Tone Analyzer service from IBM Cloud Catalog.](steps/tone.md)
+* Step 4 - [Deploy Assistant service from IBM Cloud Catalog.](steps/conversation.md)
+* Step 5 - [Deploy Text-To-Speech service from IBM Cloud Catalog.](steps/tts.md)
 * Step 6 - [Connect all the deployed services to the node-red starter application, which is created in step 1.](steps/connect.md)
 * Step 7 - [Back to Node-RED Starter application (as in Step 1) and install extra microphone and audio nodes.](steps/microphone.md)
 * Step 8 - [Import the flow and do some configuration.](steps/flow.md)
