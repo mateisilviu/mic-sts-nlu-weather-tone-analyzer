@@ -43,10 +43,8 @@ Here a short [presentation](steps/presentation.pdf) of the components which you 
 * [IBM Cloud](https://bluemix.net/)  
 * [IBM Cloud Documentation](https://www.ng.bluemix.net/docs/)  
 * [IBM Cloud Developers Community](http://developer.ibm.com/bluemix)  
-* [IBM Watson Internet of Things](http://www.ibm.com/internet-of-things/)  
-* [IBM Watson IoT Platform](http://www.ibm.com/internet-of-things/iot-solutions/watson-iot-platform/)   
+* [IBM Watson Internet of Things](http://www.ibm.com/internet-of-things/)   
 * [IBM Watson IoT Platform Developers Community](https://developer.ibm.com/iotplatform/)
-* [Hovig's Github](https://github.com/hovig?tab=repositories)
 * [IBM Watson Tone Analyzer](https://console.bluemix.net/docs/services/tone-analyzer/index.html#tone-analyzer-endpoints)
 
 ## License
