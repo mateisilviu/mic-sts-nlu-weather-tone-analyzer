@@ -1,6 +1,6 @@
 
 
-# Talk to your car 
+# Talk to your car: Power up your IoT app with AI 
 
 ![](img/flowdiagram.png)
 
