@@ -10,7 +10,7 @@
 
 <hr>
 
-* Increase the `GB MEMORY PER INSTANCE` to 1 to avoid deploy failures
+
 
 ![](../img/node-red-running-instance.png)
 
