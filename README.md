@@ -21,7 +21,7 @@ This app records your speech, sends it to the Watson services to process the req
 
 
 
-## TUTORIAL STEPS
+## Tutorial steps
 
 
 Here a short [presentation](steps/presentation.pdf) of the components which you will make use of.
