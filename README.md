@@ -13,7 +13,7 @@ With this project, you can quickly build a Node-RED Starter app and use the Wats
 This app records your speech, sends it to the Watson services to process the request. It can handle requests for the weather, or you can send commands and receive responses through a conversation to turn on the lights or play music. The possibilities are endless. Show us what you'll build.
 
 
-### Before you begin
+## -- Before you begin --
 
 * Create an IBM Cloud account if you don't have an existing one: [Sign up](https://ibm.biz/Bd2t6h).
 * __Note__: All services used in this repo are Lite plans. Don't forget to star this repo if you like it.
