@@ -19,7 +19,6 @@ This app records your speech, sends it to the Watson services to process the req
 * __Note__: All services used in this repo are Lite plans. Don't forget to star this repo if you like it.
 * Use Firefox or Chrome for better performance
 
-This is [a link](http://example.com){:target="_blank"} that opens in a new window.
 
 ## Tutorial steps
 
