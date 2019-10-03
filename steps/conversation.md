@@ -1,4 +1,4 @@
-# Watson Assistant
+# Step 4 - Deploy Assistant service from IBM Cloud Catalog.
 
 ![](../img/assistant-catalog.png)
 
