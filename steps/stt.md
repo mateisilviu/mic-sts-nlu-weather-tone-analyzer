@@ -1,4 +1,4 @@
-# Watson Speech To Text
+# Step 2 - Deploy Speech-To-Text service from IBM Cloud Catalog.
 
 ![](../img/speech-to-text-catalog.png)
 
