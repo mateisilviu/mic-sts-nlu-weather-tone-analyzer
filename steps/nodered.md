@@ -1,4 +1,6 @@
-# Node-RED Starter
+ # Step 1 - Create an IBM Cloud app using the Node-RED Starter application.
+
+
 
 ### Open IBM Cloud Service Catalog:
 
