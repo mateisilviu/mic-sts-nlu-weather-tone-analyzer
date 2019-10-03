@@ -22,7 +22,7 @@ This app records your speech, sends it to the Watson services to process the req
 
 ## Tutorial steps
 
-To create your AI powered application, you must first deploy a Node-RED-starter application. Then you need to add different Watson AI services (Speech to text, Tone Analyzer, Assistant and Text to Speech) to this Node-RED application. Then you will  deploy and connect these services. The last step before testing is adding the flow.
+To create your AI powered application, you must first deploy a Node-RED-starter application. Then you need to add different Watson AI services (Speech to text, Tone Analyzer, Assistant and Text to Speech) to this Node-RED application. Then you will  deploy and connect these services. The last step before testing is adding the flow. Step 1 to 6 is done in IBM Cloud, Step 7-8 is done in Node-RED. 
 
 Here a short [presentation](steps/presentation.pdf) of the components which you will make use of.
 
