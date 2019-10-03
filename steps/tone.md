@@ -1,4 +1,4 @@
-# Watson Tone Analyzer
+# Step 3 - Deploy Tone Analyzer service from IBM Cloud Catalog.
 
 ![](../img/tone-analyzer-catalog.png)
 
