@@ -5,6 +5,7 @@
 ### Open IBM Cloud Service Catalog:
 
 > [Click to create the Node-RED Starter](https://console.bluemix.net/catalog/starters/node-red-starter).
+enter a Unique name and leave everything default
 
 <hr>
 
