@@ -10,4 +10,4 @@ A flow is a set of connected nodes which forms the application. You als need to 
 5. `Select from clipboard`
 6. Paste the JSON-file and click on `import`.
 
-when your flow is imported, click on the blue `assistant node`. This will open the configuration pane. Paste the workplace ID you copied in step 6.
+when your flow is imported, click on the blue `assistant node`. This will open the configuration pane. Paste the workplace ID you copied in step 4.
