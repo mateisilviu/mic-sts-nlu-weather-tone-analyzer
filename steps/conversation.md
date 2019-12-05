@@ -17,4 +17,4 @@ IMPORTANT: Use and Download this [file](https://github.com/hansb001/mic-sts-nlu-
 5. Click on `choose JSON file`
 6. Select the file and click on `import`
 7. When the import is done, click on the 3 vertical dots in the dialog box (in our case the car dashboard dialog) do not use the top right 3 vertical dots, click on `Settings` and select API details. 
-8. You need the assistant Id, this is needed to connect your application to the right skill (conversation)
+8. You need the skill Id, this is needed to connect your application to the right skill (conversation)
